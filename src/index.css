@@ -1,0 +1,224 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'EB Garamond', Georgia, serif;
+    --font-cinzel: 'Cinzel', serif;
+    --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #0b0e14;
+    color: #e2e8f0;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-title {
+    font-family: var(--font-cinzel);
+    letter-spacing: 0.03em;
+  }
+
+  .font-reading {
+    font-family: var(--font-serif);
+    font-size: 1.18rem;
+    line-height: 1.85;
+  }
+}
+
+/* Effet parchemin / reliure classique */
+.bg-cabinet {
+  background: radial-gradient(circle at 50% 0%, #161c28 0%, #0c1017 100%);
+}
+
+.gold-border {
+  border-color: rgba(212, 175, 55, 0.25);
+}
+
+.gold-gradient-text {
+  background: linear-gradient(135deg, #fce09b 0%, #d4af37 50%, #aa8421 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.wax-seal {
+  background: radial-gradient(circle, #a82b36 0%, #72161f 100%);
+  box-shadow: 0 4px 12px rgba(139, 30, 40, 0.4), inset 0 1px 1px rgba(255, 255, 255, 0.3);
+}
+
+/* Animations discrètes et élégantes */
+@keyframes subtle-fade {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: subtle-fade 0.35s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* ==========================================================================
+   MODE CLAIR (Style Parchemin & Typographie Classique)
+   ========================================================================== */
+html.light body {
+  background-color: #f7f4ec;
+  color: #1e2530;
+}
+
+html.light .bg-cabinet {
+  background: radial-gradient(circle at 50% 0%, #fdfcf9 0%, #f4eee2 100%);
+}
+
+/* Cartes & Conteneurs Principaux */
+html.light article,
+html.light section,
+html.light .bg-\[\#11151f\],
+html.light .bg-\[\#111622\],
+html.light .bg-\[\#141925\],
+html.light .bg-\[\#181a24\] {
+  background-color: #ffffff !important;
+  border-color: #e2dac7 !important;
+  box-shadow: 0 4px 20px -2px rgba(45, 35, 20, 0.06), 0 2px 6px -1px rgba(45, 35, 20, 0.04) !important;
+}
+
+/* En-tête & Pied de page */
+html.light header,
+html.light .bg-\[\#0c0f16\]\/95 {
+  background-color: rgba(250, 247, 240, 0.96) !important;
+  border-color: #ded5bf !important;
+}
+
+html.light footer,
+html.light .bg-\[\#090c12\] {
+  background-color: #ede5d5 !important;
+  border-color: #ded5bf !important;
+}
+
+/* Surfaces Secondaires & Boutons */
+html.light .bg-\[\#10141d\],
+html.light .bg-\[\#121620\],
+html.light .bg-\[\#121622\],
+html.light .bg-\[\#141a27\],
+html.light .bg-\[\#151922\],
+html.light .bg-\[\#151a24\],
+html.light .bg-\[\#161c28\],
+html.light .bg-\[\#171d2b\],
+html.light .bg-\[\#182030\],
+html.light .bg-\[\#192131\],
+html.light .bg-\[\#1c2434\],
+html.light .bg-\[\#1e2535\] {
+  background-color: #f5f0e3 !important;
+  border-color: #ded5bf !important;
+}
+
+html.light .bg-\[\#161c28\]\/70 {
+  background-color: rgba(245, 240, 227, 0.75) !important;
+}
+
+html.light .bg-\[\#192131\]\/60 {
+  background-color: rgba(238, 230, 213, 0.65) !important;
+}
+
+html.light .bg-\[\#242c3d\] {
+  background-color: #ded5bf !important;
+}
+
+html.light select option {
+  background-color: #f7f4ec !important;
+  color: #1e2530 !important;
+}
+
+/* Bordures & Séparateurs */
+html.light .border-\[\#1a2130\],
+html.light .border-\[\#1b202c\],
+html.light .border-\[\#1d2433\],
+html.light .border-\[\#1d2738\],
+html.light .border-\[\#1e2537\],
+html.light .border-\[\#1e2637\],
+html.light .border-\[\#1f2635\],
+html.light .border-\[\#20293a\],
+html.light .border-\[\#232938\],
+html.light .border-\[\#232c3d\],
+html.light .border-\[\#242c3d\],
+html.light .border-\[\#252f44\],
+html.light .border-\[\#262c3a\],
+html.light .border-\[\#263145\],
+html.light .border-\[\#263146\],
+html.light .border-\[\#263349\],
+html.light .border-\[\#273042\],
+html.light .border-\[\#2b3548\],
+html.light .border-\[\#2d3748\],
+html.light .border-\[\#4a5568\] {
+  border-color: #ded5bf !important;
+}
+
+/* Typographie & Contraste d'Encre */
+html.light .text-white {
+  color: #171f2b !important;
+}
+
+html.light .text-\[\#e2e8f0\],
+html.light .text-\[\#f1f5f9\],
+html.light .text-\[\#f4eee1\] {
+  color: #202b3c !important;
+}
+
+html.light .text-\[\#cbd5e1\],
+html.light .text-\[\#cbd5e0\] {
+  color: #334155 !important;
+}
+
+html.light .text-\[\#9aa4b2\],
+html.light .text-\[\#8892a0\],
+html.light .text-\[\#718096\],
+html.light .text-\[\#94a3b8\],
+html.light .text-\[\#9ca3af\],
+html.light .text-\[\#a0aec0\],
+html.light .text-\[\#8c9ba5\],
+html.light .text-\[\#64748b\] {
+  color: #4b5563 !important;
+}
+
+html.light .text-\[\#3a4457\],
+html.light .text-\[\#4a5568\],
+html.light .text-\[\#55637a\] {
+  color: #6b7280 !important;
+}
+
+/* Or antique haute visibilité sur fond clair */
+html.light .text-\[\#d4af37\],
+html.light .text-\[\#f6e05e\],
+html.light .text-\[\#fce09b\],
+html.light .text-\[\#fde047\],
+html.light .text-\[\#f3e5ab\] {
+  color: #8c6708 !important;
+}
+
+html.light .text-\[\#c5a059\] {
+  color: #7a5806 !important;
+}
+
+html.light .gold-border,
+html.light .border-\[\#d4af37\]\/40,
+html.light .border-\[\#d4af37\]\/30,
+html.light .border-\[\#d4af37\]\/25 {
+  border-color: rgba(140, 103, 8, 0.35) !important;
+}
+
+html.light .bg-\[\#d4af37\]\/10,
+html.light .bg-\[\#d4af37\]\/15,
+html.light .bg-\[\#d4af37\]\/20 {
+  background-color: rgba(140, 103, 8, 0.1) !important;
+}
+
+html.light .gold-gradient-text {
+  background: linear-gradient(135deg, #a67c00 0%, #805b00 50%, #573e00 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+/* Interactions au survol */
+html.light .hover\:bg-\[\#151922\]:hover,
+html.light .hover\:bg-\[\#192131\]:hover,
+html.light .hover\:bg-\[\#1c2434\]:hover {
+  background-color: #eae2d1 !important;
+}
