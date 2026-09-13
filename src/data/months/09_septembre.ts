@@ -160,18 +160,7 @@ En 1939, les panzers d'Hitler franchissent la frontière polonaise : l'Europe pl
 
 En 1969, le jeune colonel Mouammar Kadhafi prend le pouvoir par un coup d'État en Libye.
 
-Et en 2004, le drame terroriste de Beslan en Ossétie du Nord rappelle la violence des fractures du Caucase.
-
-La grande leçon de l'Histoire : les souverains et les régimes passent, mais l'armature administrative de l'État demeure le seul rempart des nations contre le chaos.
-
-Votre question de mémoire active :
-Combien d'années dura le règne officiel de Louis quatorze, constituant le record absolu de la monarchie française ?
-Première proposition : 72 ans.
-Deuxième proposition : 60 ans.
-Troisième proposition : 54 ans.
-Ou quatrième proposition : 68 ans.
-
-La bonne réponse est la première proposition, 72 ans et 110 jours, dont 54 années de règne personnel après la disparition du cardinal Mazarin.`
+Et en 2004, le drame terroriste de Beslan en Ossétie du Nord rappelle la violence des fractures du Caucase.`
       },
       approfondi: {
         durationMinutes: 9,
@@ -187,16 +176,7 @@ Mais le revers de cette politique de puissance est brutal. La guerre de Successi
 
 Le drame immédiat du 1er septembre 1715 est la vacance du pouvoir d'un homme fort. Les fils et petit-fils légitimes du roi sont morts d'épidémies foudroyantes. Le futur Louis quinze n'est qu'un enfant. Conscient que son neveu le duc d'Orléans est contesté, Louis quatorze avait rédigé un testament complexe pour partager la régence avec le duc du Maine, son fils légitimé.
 
-Dès le lendemain 2 septembre, le Parlement de Paris cassera le testament royal. Pour s'assurer le pouvoir suprême, le Régent Philippe d'Orléans rend aux magistrats parlementaires le droit de remontrance que Louis quatorze leur avait confisqué cinquante ans plus tôt. C'est l'étincelle qui réactive la fronde des robins et des parlements, opposition conservatrice qui bloquera toutes les réformes fiscales jusqu'à la Révolution de 1789.
-
-Voici votre question de mémorisation active :
-Quel ministre et réformateur militaire de génie organisa sous Louis quatorze l'armée permanente française et l'uniforme régulier de l'infanterie ?
-Première proposition : Louvois.
-Deuxième proposition : Colbert.
-Troisième proposition : Vauban.
-Ou quatrième proposition : Chamillart.
-
-La bonne réponse est la première proposition, le marquis de Louvois. Secrétaire d'État à la Guerre, il transforma les bandes féodales en la première armée professionnelle moderne d'Europe, forte de quatre cent mille hommes.`
+Dès le lendemain 2 septembre, le Parlement de Paris cassera le testament royal. Pour s'assurer le pouvoir suprême, le Régent Philippe d'Orléans rend aux magistrats parlementaires le droit de remontrance que Louis quatorze leur avait confisqué cinquante ans plus tôt. C'est l'étincelle qui réactive la fronde des robins et des parlements, opposition conservatrice qui bloquera toutes les réformes fiscales jusqu'à la Révolution de 1789.`
       }
     }
   },
@@ -349,18 +329,7 @@ En 1945, à bord du cuirassé Missouri dans la baie de Tokyo, le Japon signe sa 
 
 Le même jour, à Hanoï, Hô Chi Minh proclame l'indépendance de la République du Viêt Nam.
 
-Et en 1990, la Transnistrie fait sécession de la Moldavie, allumant l'un des conflits gelés du monde post-soviétique.
-
-La leçon géopolitique d'Actium : les civilisations ne périssent pas sous les coups de l'étranger tant que leurs élites ne se sont pas divisées dans des querelles intestines sans réconciliation possible.
-
-Votre question de culture classique :
-Quel amiral et génie militaire assura la victoire d'Octave à la bataille d'Actium ?
-Première proposition : Marcus Agrippa.
-Deuxième proposition : Mécène.
-Troisième proposition : Pompée le Jeune.
-Ou quatrième proposition : Lépide.
-
-La réponse est la première proposition, Marcus Vipsanius Agrippa. Fidèle compagnon d'Octave, il lui donna l'Empire par ses victoires avant de doter Rome du Panthéon.`
+Et en 1990, la Transnistrie fait sécession de la Moldavie, allumant l'un des conflits gelés du monde post-soviétique.`
       },
       approfondi: {
         durationMinutes: 9,
@@ -374,16 +343,7 @@ La manœuvre militaire d'Actium est un modèle absolu de stratégie préparatoir
 
 Les conséquences institutionnelles d'Actium sont colossales. L'Égypte devient le domaine personnel d'Octave, qui interdit à tout sénateur romain d'y entrer sans son autorisation afin de sanctuariser le ravitaillement en blé de Rome. Le temple de Janus est fermé pour signifier la paix universelle : la République des oligarques s'efface devant le règne quarantenaire d'Auguste et deux siècles de Pax Romana.
 
-Dix-neuf siècles plus tard, le 2 septembre 1870, c'est l'Empire des Bonaparte qui sombre dans la cuvette de Sedan. Pris en tenaille sous les feux convergents de cinq cents canons Krupp qui pilonnent les positions françaises depuis les hauteurs, Napoléon trois capitule pour éviter le massacre inutile de son armée. La défaite balaye le régime impérial et livre l'Alsace-Lorraine au Reich unifié par Bismarck.
-
-Voici votre question de mémoire active :
-Quel roi de Prusse reçut la capitulation de Napoléon trois au château de Bellevue le 2 septembre 1870 avant d'être couronné empereur d'Allemagne à Versailles ?
-Première proposition : Guillaume Premier.
-Deuxième proposition : Frédéric-Guillaume Quatre.
-Troisième proposition : Frédéric Trois.
-Ou quatrième proposition : Guillaume Deux.
-
-La réponse est la première proposition, Guillaume Premier de Hohenzollern. C'est devant lui que Napoléon trois remit son épée, scellant l'unification de l'Empire allemand sur les ruines du Second Empire français.`
+Dix-neuf siècles plus tard, le 2 septembre 1870, c'est l'Empire des Bonaparte qui sombre dans la cuvette de Sedan. Pris en tenaille sous les feux convergents de cinq cents canons Krupp qui pilonnent les positions françaises depuis les hauteurs, Napoléon trois capitule pour éviter le massacre inutile de son armée. La défaite balaye le régime impérial et livre l'Alsace-Lorraine au Reich unifié par Bismarck.`
       }
     }
   },
@@ -538,18 +498,7 @@ En 1939, après l'invasion de la Pologne par Hitler, le Royaume-Uni à onze heur
 
 En 1943, l'armistice de Cassibile consacre la capitulation secrète de l'Italie face aux Alliés.
 
-Et en 1971, l'accord quadripartite sur Berlin apaise les tensions de la Guerre froide au cœur de l'Europe divisée.
-
-La grande constante politique : le succès diplomatique ne dépend pas seulement de l'audace militaire, mais de la solidité des finances publiques capables de soutenir l'effort dans la durée.
-
-Votre question de haute culture :
-Quel grand ministre des Affaires étrangères de Louis seize fut l'artisan de l'alliance franco-américaine de 1778 et du traité de Paris de 1783 ?
-Première proposition : le comte de Vergennes.
-Deuxième proposition : le duc de Choiseul.
-Troisième proposition : le cardinal de Bernis.
-Ou quatrième proposition : Jacques Necker.
-
-La réponse est la première proposition, le comte de Vergennes. Stratège lucide et mesuré, il rendit à la France son rang de première puissance européenne sans céder au vertige des conquêtes continentales.`
+Et en 1971, l'accord quadripartite sur Berlin apaise les tensions de la Guerre froide au cœur de l'Europe divisée.`
       },
       approfondi: {
         durationMinutes: 9,
@@ -727,18 +676,7 @@ En 1914, face aux armées allemandes qui foncent sur la capitale, le gouvernemen
 
 En 1958, place de la République à Paris, Charles de Gaulle présente la Constitution de la Cinquième République pour restaurer l'autorité de l'État.
 
-Et en 1970, Salvador Allende devient le premier président marxiste élu d'Amérique du Sud.
-
-La leçon fondamentale de l'Histoire : les institutions politiques ne périssent jamais par accident ; elles s'effondrent quand elles ont cessé de croire en leur propre mission civilisatrice.
-
-Votre question de culture classique :
-Quel général barbare renvoya les insignes impériaux de Rome à Constantinople après avoir détrôné le dernier empereur d'Occident en 476 ?
-Première proposition : Odoacre.
-Deuxième proposition : Alaric.
-Troisième proposition : Théodoric.
-Ou quatrième proposition : Clovis.
-
-La bonne réponse est la première proposition, Odoacre. Chef des contingents hérules, il choisit de régner comme simple roi d'Italie plutôt que de perpétuer la fiction d'un trône impérial vacant.`
+Et en 1970, Salvador Allende devient le premier président marxiste élu d'Amérique du Sud.`
       },
       approfondi: {
         durationMinutes: 9,
@@ -754,16 +692,7 @@ En 475, Oreste installe son jeune fils Romulus sur le trône. Les Romains l'appe
 
 Le 4 septembre 476, Odoacre entre à Ravenne, épargne l'enfant empereur et lui octroie une confortable pension dans une villa de Campanie. En renvoyant les ornements impériaux à Constantinople, Odoacre ne détruit pas Rome : il acte son trépas politique. La civilisation romaine ne disparaît pas pour autant : le droit civil, la langue latine et l'administration des cités sont sauvés par l'Église catholique et ses évêques, qui offriront à la future dynastie mérovingienne l'armature du royaume de France.
 
-Mille quatre cents ans plus tard, le 4 septembre 1870, c'est l'Empire des Bonaparte qui sombre à Paris. Quarante-huit heures après la reddition de Sedan où Napoléon trois s'est constitué prisonnier, le peuple envahit la Chambre des députés. Au balcon de l'Hôtel de Ville, Léon Gambetta et Jules Favre proclament la déchéance de l'Empire et créent le Gouvernement de la Défense nationale. Face à l'invasion prussienne qui commence, la République naît de l'épreuve du feu et de la volonté nationale de poursuivre la lutte pour l'intégrité de la terre française.
-
-Voici votre question de mémorisation active :
-Où le dernier empereur romain d'Occident Romulus Augustule fut-il envoyé en exil par Odoacre avec une pension viagère après sa déposition ?
-Première proposition : en Campanie (près de Naples).
-Deuxième proposition : en Sicile.
-Troisième proposition : en Corse.
-Ou quatrième proposition : à Byzance.
-
-La réponse est la première proposition, en Campanie, au château de Lucullus près de Naples. Ce général barbare fit preuve d'une modération rare en épargnant l'enfant souverain dont le nom réunissait ironiquement le fondateur de Rome et le fondateur de son Empire.`
+Mille quatre cents ans plus tard, le 4 septembre 1870, c'est l'Empire des Bonaparte qui sombre à Paris. Quarante-huit heures après la reddition de Sedan où Napoléon trois s'est constitué prisonnier, le peuple envahit la Chambre des députés. Au balcon de l'Hôtel de Ville, Léon Gambetta et Jules Favre proclament la déchéance de l'Empire et créent le Gouvernement de la Défense nationale. Face à l'invasion prussienne qui commence, la République naît de l'épreuve du feu et de la volonté nationale de poursuivre la lutte pour l'intégrité de la terre française.`
       }
     }
   },
@@ -926,18 +855,7 @@ En 1972, la prise d'otages des Jeux Olympiques de Munich par le commando Septemb
 
 En 1977, la NASA lance la sonde Voyager 1, l'objet humain le plus lointain voguant aujourd'hui dans l'espace interstellaire.
 
-Et en 1997, Mère Teresa s'éteint à Calcutta après une vie de dévouement absolu aux plus pauvres.
-
-La grande constante politique : un État digne de ce nom ne tolère aucune féodalité financière capable de disputer la souveraineté à la loi commune.
-
-Votre question de mémoire historique :
-Quel célèbre capitaine des mousquetaires procéda à l'arrestation de Nicolas Fouquet à Nantes le 5 septembre 1661 ?
-Première proposition : d'Artagnan.
-Deuxième proposition : Tréville.
-Troisième proposition : le marquis de Louvois.
-Ou quatrième proposition : Turenne.
-
-La réponse est la première proposition, Charles de Batz de Castelmore, dit d'Artagnan. Fidèle serviteur du roi, le véritable d'Artagnan assura la garde vigilante de Fouquet jusqu'à sa détention à la forteresse de Pignerol.`
+Et en 1997, Mère Teresa s'éteint à Calcutta après une vie de dévouement absolu aux plus pauvres.`
       },
       approfondi: {
         durationMinutes: 9,
@@ -951,16 +869,7 @@ Pire encore aux yeux de Louis quatorze : Fouquet commet l'erreur politique de vo
 
 Dans le plus grand secret, avec la complicité méticuleuse de Jean-Baptiste Colbert qui épluche les comptes truqués de la surintendance, Louis quatorze organise le piège de Nantes. Le 5 septembre 1661, après avoir présidé le conseil royal avec son amabilité coutumière pour ne pas éveiller les soupçons de Fouquet, le roi ordonne à d'Artagnan et à ses mousquetaires d'arrêter le surintendant à sa sortie.
 
-Le procès de Fouquet durera trois ans. Condamné par une chambre de justice au bannissement, le roi commue la peine en réclusion criminelle à perpétuité à la forteresse de Pignerol, dans les Alpes, où l'ancien surintendant mourra vingt ans plus tard. Avec cette élimination, Louis quatorze n'a pas seulement puni un concussionnaire : il a aboli la surintendance et fait de l'État le seul maître légitime des deniers publics.
-
-Voici votre question de mémorisation active :
-Quel sublime château privé, chef-d'œuvre de Le Vau, Le Brun et Le Nôtre, abrita le 17 août 1661 la fête légendaire qui scella aux yeux de la cour la rivalité entre Fouquet et le Roi-Soleil ?
-Première proposition : le château de Vaux-le-Vicomte.
-Deuxième proposition : le château de Chambord.
-Troisième proposition : le château de Dampierre.
-Ou quatrième proposition : le château de Chantilly.
-
-La réponse est la première proposition, le château de Vaux-le-Vicomte. Ébloui et irrité par la perfection de ce palais, Louis quatorze embaucha les mêmes artistes pour métamorphoser le pavillon de chasse de Versailles en capitale du Grand Siècle.`
+Le procès de Fouquet durera trois ans. Condamné par une chambre de justice au bannissement, le roi commue la peine en réclusion criminelle à perpétuité à la forteresse de Pignerol, dans les Alpes, où l'ancien surintendant mourra vingt ans plus tard. Avec cette élimination, Louis quatorze n'a pas seulement puni un concussionnaire : il a aboli la surintendance et fait de l'État le seul maître légitime des deniers publics.`
       }
     }
   },
@@ -1115,18 +1024,7 @@ Ce même jour, le général Gallieni réquisitionne six cents taxis parisiens po
 
 En 1948, Juliana devient reine des Pays-Bas.
 
-Et en 1991, la ville de Léningrad efface le nom du père de la révolution bolchevique pour redevenir Saint-Pétersbourg.
-
-La grande leçon de l'Histoire : la volonté humaine et la persévérance indomptable sont les seuls moteurs capables de transformer des périls mortels en triomphes éternels.
-
-Votre question de culture maritime :
-Quel navigateur basque ramena la Victoria en Espagne le 6 septembre 1522, achevant le premier tour du monde de l'Histoire ?
-Première proposition : Juan Sebastián Elcano.
-Deuxième proposition : Vasco de Gama.
-Troisième proposition : Antonio Pigafetta.
-Ou quatrième proposition : Pedro Álvares Cabral.
-
-La bonne réponse est la première proposition, Juan Sebastián Elcano. C'est à lui que revient l'honneur militaire et nautique d'avoir dirigé le dernier acte de la circumnavigation après la disparition de Magellan.`
+Et en 1991, la ville de Léningrad efface le nom du père de la révolution bolchevique pour redevenir Saint-Pétersbourg.`
       },
       approfondi: {
         durationMinutes: 9,
@@ -1142,16 +1040,7 @@ Ayant atteint les Moluques et rempli ses cales de clous de girofle, Elcano sait 
 
 Trois cent quatre-vingt-douze ans plus tard, le 6 septembre 1914, c'est la survie de la France qui se joue le long de la Marne. Après l'échec sanglant de la bataille des Frontières et deux semaines d'une retraite épuisante sous la canicule d'août, les armées allemandes ne sont plus qu'à quarante kilomètres de Notre-Dame de Paris. Le généralissime Joffre, imperturbable dans la tourmente, saisit l'opportunité repérée par le général Gallieni : la Première armée allemande du général von Kluck a infléchi sa marche vers le sud-est, exposant son flanc droit à l'armée de Maunoury.
 
-À l'aube du 6 septembre, l'ordre de Joffre résonne aux avant-postes : « Au moment où s'engage une bataille dont dépend le salut du pays, il importe de rappeler à tous que le moment n'est plus de regarder en arrière. Une troupe qui ne peut plus avancer devra, coûte que coûte, garder le terrain conquis et se faire tuer sur place plutôt que de reculer ». L'armée française fait volte-face, et les taxis parisiens réquisitionnés aux Invalides par Gallieni transportent d'urgence la brigade du général de Trentinian sur l'Ourcq : le rouleau compresseur allemand est brisé, Paris est sauvé.
-
-Voici votre question de mémoire active :
-Quel gouverneur militaire de Paris organisa le célèbre transport de troupes par les taxis de la Marne le 6 septembre 1914 ?
-Première proposition : le général Gallieni.
-Deuxième proposition : le général Joffre.
-Troisième proposition : le général Foch.
-Ou quatrième proposition : le général Pétain.
-
-La réponse est la première proposition, le général Joseph Gallieni. Lucidité stratégique exceptionnelle, ce vieux colonial comprit le premier la faute d'alignement de von Kluck et mobilisa toute l'énergie de la capitale pour appuyer la manœuvre de la Marne.`
+À l'aube du 6 septembre, l'ordre de Joffre résonne aux avant-postes : « Au moment où s'engage une bataille dont dépend le salut du pays, il importe de rappeler à tous que le moment n'est plus de regarder en arrière. Une troupe qui ne peut plus avancer devra, coûte que coûte, garder le terrain conquis et se faire tuer sur place plutôt que de reculer ». L'armée française fait volte-face, et les taxis parisiens réquisitionnés aux Invalides par Gallieni transportent d'urgence la brigade du général de Trentinian sur l'Ourcq : le rouleau compresseur allemand est brisé, Paris est sauvé.`
       }
     }
   },
@@ -1304,18 +1193,7 @@ En 1940, la Luftwaffe commence le Blitz sur Londres : cinquante-sept nuits d'enf
 
 En 1977, les traités de Panama amorcent la rétrocession du canal sous la présidence de Jimmy Carter.
 
-Et en 1986, Desmond Tutu devient le premier archevêque noir du Cap, symbole du recul de l'apartheid en Afrique du Sud.
-
-La grande constante politique : aucune puissance, aussi géniale et invincible soit-elle militairement, ne peut triompher d'un empire géographique immense dont le peuple a fait le sacrifice de sa propre terre.
-
-Votre question de stratégie militaire :
-Quel illustre maréchal français s'illustra avec tant d'héroïsme à Borodino que Napoléon lui décerna le titre de prince de la Moskowa ?
-Première proposition : le maréchal Ney.
-Deuxième proposition : le maréchal Davout.
-Troisième proposition : le maréchal Murat.
-Ou quatrième proposition : le maréchal Lannes.
-
-La bonne réponse est la première proposition, le maréchal Michel Ney, « le brave des braves », dont l'énergie indomptable sur le front de Borodino emporta les lignes fortifiées russes.`
+Et en 1986, Desmond Tutu devient le premier archevêque noir du Cap, symbole du recul de l'apartheid en Afrique du Sud.`
       },
       approfondi: {
         durationMinutes: 9,
@@ -1329,16 +1207,7 @@ Lorsque le prince Koutouzov accepte enfin la bataille devant Moscou le 7 septemb
 
 Dès l'aube, le bombardement est d'une intensité inouïe. Les boulets français et russes fauchent des rangs entiers. La cavalerie de Murat charge avec fureur ; le prince Bagration combat héroïquement avant d'être mortellement fauché par un éclat d'obus. Le général Auguste de Caulaincourt pénètre au galop de ses cuirassiers dans la redoute Raïevski et s'y fait tuer à bout portant. Mais Napoléon hésite. Affaibli par un rhume et une crise d'urémie, le conquérant refuse d'engager la Garde impériale — vingt mille hommes d'élite intacts — pour briser définitivement l'armée russe en déroute. « Si je perds la Garde, qui me ramènera à Paris ? » répond-il à ses maréchaux furieux qui réclamaient le coup de grâce.
 
-Koutouzov évacue le champ de bataille la nuit venue avec les débris organisés de son armée, et ordonne l'abandon de Moscou. Mais ce n'est qu'une victoire à la Pyrrhus : les Russes refusent obstinément de négocier. L'incendie de Moscou allumé par son propre gouverneur Rostopchine et l'arrivée brutale du terrible général Hiver transformeront cette marche triomphale en l'un des plus effroyables calvaires de l'histoire militaire européenne, prélude à la chute du régime impérial.
-
-Voici votre question de mémoire active :
-Quel officier et mémorialiste français, grand écuyer de Napoléon et frère du général tué à la redoute de Borodino, a laissé le récit le plus poignant et le plus lucide de la campagne de Russie ?
-Première proposition : Armand de Caulaincourt.
-Deuxième proposition : le général de Marbot.
-Troisième proposition : le général de Ségur.
-Ou quatrième proposition : le baron Fain.
-
-La bonne réponse est la première proposition, Armand de Caulaincourt, duc de Vicence. Ancien ambassadeur à Saint-Pétersbourg, il avait vainement prévenu Napoléon que l'empereur Alexandre ne capitulerait jamais et que le climat russe engloutirait la Grande Armée.`
+Koutouzov évacue le champ de bataille la nuit venue avec les débris organisés de son armée, et ordonne l'abandon de Moscou. Mais ce n'est qu'une victoire à la Pyrrhus : les Russes refusent obstinément de négocier. L'incendie de Moscou allumé par son propre gouverneur Rostopchine et l'arrivée brutale du terrible général Hiver transformeront cette marche triomphale en l'un des plus effroyables calvaires de l'histoire militaire européenne, prélude à la chute du régime impérial.`
       }
     }
   },
@@ -1483,18 +1352,7 @@ En 1943, alors que retentit la capitulation sans conditions de l'Italie face aux
 
 Le 8 septembre 1951, quarante-huit nations signent le traité de paix de San Francisco avec le Japon. Ce traité met un terme officiel à la Seconde Guerre mondiale dans le Pacifique, rétablit la souveraineté nippone et ancre Tokyo dans l'alliance occidentale face au bloc soviétique.
 
-Et le 8 septembre 2022, après un règne record de soixante-dix ans, la reine Élisabeth deux s'éteint en Écosse, refermant la dernière page vivante de l'Empire britannique et du vingtième siècle mondial.
-
-La maxime politique à retenir est celle des légistes capétiens : « Rex in régno sou-o èst impérator ». Le roi est empereur en son royaume.
-
-Votre question d'ancrage mémoriel :
-Quel juriste de Philippe le Bel, petit-fils de cathare languedocien, fut le bras armé impitoyable de la monarchie à Anagni ?
-Première proposition : Enguerrand de Marigny.
-Deuxième proposition : l'abbé Suger.
-Troisième proposition : Guillaume de Nogaret.
-Ou quatrième proposition : Pierre de Dreux.
-
-La réponse est la troisième proposition, Guillaume de Nogaret. Rompu aux subtilités impériales du droit romain, il comprit que l'indépendance de l'État exigeait de briser sans faiblesse les prétentions théocratiques du Vatican.`
+Et le 8 septembre 2022, après un règne record de soixante-dix ans, la reine Élisabeth deux s'éteint en Écosse, refermant la dernière page vivante de l'Empire britannique et du vingtième siècle mondial.`
       },
       approfondi: {
         durationMinutes: 10,
@@ -1519,18 +1377,7 @@ En 1855, Mac Mahon enlève la tour Malakoff à Sébastopol par un assaut héroï
 En 1914, le général Foche lance sa contre-attaque dans les marais de Saint-Gond durant la bataille de la Marne, empêchant l'encerclement de Paris.
 En 1943, l'annonce de l'armistice italien embrase la Corse : sous l'impulsion de la Résistance et du sous-marin Casa-bianca, l'île se soulève et devient le premier territoire métropolitain libéré.
 En 1951, quarante-huit nations signent à San Francisco le traité de paix avec le Japon, concluant officiellement la Seconde Guerre mondiale en Asie et dessinant la géopolitique de la guerre froide dans le Pacifique.
-Et en 2022, la disparition d'Élisabeth deux scelle le crépuscule d'un siècle d'histoire impériale britannique.
-
-La maxime politique à retenir est celle de Guillaume de Nogaret : « Rex in régno sou-o èst impérator ». Le roi ne tolère aucun supérieur au temporel.
-
-Voici la question de réflexion active :
-Quel juriste et garde des Sceaux de Philippe le Bel a mené cette expédition d'Anagni ?
-Première proposition : Enguerrand de Marigny.
-Deuxième proposition : l'abbé Suger.
-Troisième proposition : Guillaume de Nogaret.
-Ou quatrième proposition : Pierre de Dreux.
-
-La bonne réponse est la troisième proposition, Guillaume de Nogaret. Formé au droit romain à Montpellier, il mit la rigueur juridique au service de la puissance capétienne, démontrant que la souveraineté d'un grand royaume ne saurait tolérer aucun tuteur étranger.`
+Et en 2022, la disparition d'Élisabeth deux scelle le crépuscule d'un siècle d'histoire impériale britannique.`
       }
     }
   },
@@ -1695,18 +1542,7 @@ En 1914, au terme de la bataille de la Marne, la Première armée allemande sonn
 
 En 1976, la mort de Mao Zedong à Pékin tourne la page tragique de la Révolution culturelle et ouvre la voie à la modernisation économique de la Chine.
 
-Et en 1991, le Tadjikistan proclame son indépendance de l'URSS en décomposition.
-
-La leçon géopolitique de Poissy : lorsque les passions idéologiques ou religieuses divisent un peuple, seule l'autorité impartiale de l'État souverain peut empêcher les citoyens de s'égorger mutuellement.
-
-Votre question de culture classique :
-Quel disciple et successeur de Jean Calvin représenta la Réforme protestante au Colloque de Poissy en 1561 ?
-Première proposition : Théodore de Bèze.
-Deuxième proposition : Guillaume Farel.
-Troisième proposition : Thomas Müntzer.
-Ou quatrième proposition : John Knox.
-
-La réponse est la première proposition, Théodore de Bèze. Humaniste de grand talent, son éloquence séduisit la reine Catherine mais se heurta au refus intransigeant des théologiens de la Sorbonne.`
+Et en 1991, le Tadjikistan proclame son indépendance de l'URSS en décomposition.`
       },
       approfondi: {
         durationMinutes: 9,
@@ -1722,16 +1558,7 @@ Le 9 septembre 1561, le colloque s'ouvre au prieuré royal de Poissy. Pour la pr
 
 Mais le fossé théologique est infranchissable. Dès que Bèze aborde le sacrement de l'Eucharistie et déclare que le corps du Christ n'est pas physiquement présent dans l'hostie, les cardinaux crient au blasphème. Le cardinal de Lorraine, pourtant partisan d'une réforme interne de l'Église, exige la soumission complète des calvinistes aux décrets du concile de Trente.
 
-Le colloque de Poissy se sépare le 14 octobre sans accord. Mais cette tentative royale n'a pas été vaine : elle a accouché en janvier 1562 de l'édit de tolérance de Saint-Germain, autorisant le culte protestant de jour et hors des villes. Les fanatismes auront le dessus temporairement, et le massacre de Wassy par les soldats du duc de Guise ouvrira trois décennies d'atrocités civiles. Mais le sillon était tracé : il faudra attendre Henri quatre et l'édit de Nantes en 1598 pour que la vision royale de Michel de L'Hospital triomphe enfin sur le fanatisme des factions.
-
-Voici votre question de mémorisation active :
-Quel illustre juriste et chancelier de France formula au colloque de Poissy les premiers principes de la concorde civile et de la distinction entre l'État et la religion ?
-Première proposition : Michel de L'Hospital.
-Deuxième proposition : Jean de La Valette.
-Troisième proposition : Guillaume de Lamoignon.
-Ou quatrième proposition : Jean Bodin.
-
-La bonne réponse est la première proposition, le chancelier Michel de L'Hospital. Magistrat intègre et philosophe chrétien, il préféra perdre son pouvoir plutôt que de cautionner les massacres religieux de son époque.`
+Le colloque de Poissy se sépare le 14 octobre sans accord. Mais cette tentative royale n'a pas été vaine : elle a accouché en janvier 1562 de l'édit de tolérance de Saint-Germain, autorisant le culte protestant de jour et hors des villes. Les fanatismes auront le dessus temporairement, et le massacre de Wassy par les soldats du duc de Guise ouvrira trois décennies d'atrocités civiles. Mais le sillon était tracé : il faudra attendre Henri quatre et l'édit de Nantes en 1598 pour que la vision royale de Michel de L'Hospital triomphe enfin sur le fanatisme des factions.`
       }
     }
   },
@@ -1884,18 +1711,7 @@ En 1944, les blindés américains libèrent la ville de Luxembourg.
 
 En 1974, le Portugal de la Révolution des Œillets reconnaît l'indépendance de la Guinée-Bissau.
 
-Et en 1981, le chef-d'œuvre de Picasso, Guernica, regagne Madrid après quarante ans d'exil à New York.
-
-La grande leçon de l'Histoire : les traités qui déplacent les frontières sans respecter les équilibres démographiques et géopolitiques préparent inévitablement les guerres de la génération suivante.
-
-Votre question de haute culture géopolitique :
-Quelle ville fondée par Pierre le Grand en 1703 devint la capitale impériale de la Russie consacrée par le traité de Nystad ?
-Première proposition : Saint-Pétersbourg.
-Deuxième proposition : Moscou.
-Troisième proposition : Kiev.
-Ou quatrième proposition : Sébastopol.
-
-La bonne réponse est la première proposition, Saint-Pétersbourg. Surgie des marais de la Baltique par la volonté de fer de Pierre le Grand, elle incarna l'ancrage définitif de la Russie dans la civilisation européenne.`
+Et en 1981, le chef-d'œuvre de Picasso, Guernica, regagne Madrid après quarante ans d'exil à New York.`
       },
       approfondi: {
         durationMinutes: 9,
@@ -1911,16 +1727,7 @@ Lorsque Charles douze s'enfonce follement dans les profondeurs de l'Ukraine en 1
 
 Cent quatre-vingt-dix-huit ans plus tard, le 10 septembre 1919, les diplomates français et anglo-saxons commettent au château de Saint-Germain-en-Laye la faute géopolitique inverse. Grisés par la victoire de 1918, ils appliquent aveuglément le principe des nationalités et détruisent l'Empire austro-hongrois des Habsbourg.
 
-L'Autriche est réduite à un modeste État montagneux de six millions d'habitants, privé de son industrie de Bohême et de ses greniers hongrois. Comme l'écrira Jacques Bainville avec une angoisse prophétique dans Les Conséquences politiques de la paix, en pulvérisant l'Empire danubien qui équilibrait le centre de l'Europe, les vainqueurs ont créé une poussière de petits États désunis et vulnérables (Tchécoslovaquie, Yougoslavie, Pologne), incapables de résister à la renaissance du militarisme germanique à Berlin et de l'impérialisme soviétique à Moscou. Vingt ans plus tard, l'Anschluss et les accords de Munich viendront valider avec cruauté cet avertissement.
-
-Voici votre question de mémoire active :
-Quel roi de Suède, guerrier brillant mais stratège imprudent, fut le grand rival vaincu par Pierre le Grand lors de la Grande Guerre du Nord ?
-Première proposition : Charles Douze.
-Deuxième proposition : Gustave Adolphe.
-Troisième proposition : Charles Onze.
-Ou quatrième proposition : Gustave Trois.
-
-La réponse est la première proposition, Charles Douze de Suède. Monté sur le trône à quinze ans, il passa sa vie sur les champs de bataille de Pologne et de Russie avant de trouver la mort d'une balle au front au siège de Fredrikshald en Norvège en 1718.`
+L'Autriche est réduite à un modeste État montagneux de six millions d'habitants, privé de son industrie de Bohême et de ses greniers hongrois. Comme l'écrira Jacques Bainville avec une angoisse prophétique dans Les Conséquences politiques de la paix, en pulvérisant l'Empire danubien qui équilibrait le centre de l'Europe, les vainqueurs ont créé une poussière de petits États désunis et vulnérables (Tchécoslovaquie, Yougoslavie, Pologne), incapables de résister à la renaissance du militarisme germanique à Berlin et de l'impérialisme soviétique à Moscou. Vingt ans plus tard, l'Anschluss et les accords de Munich viendront valider avec cruauté cet avertissement.`
       }
     }
   }

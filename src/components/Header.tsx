@@ -1,14 +1,12 @@
 // src/components/Header.tsx
 import React from 'react';
-import { Calendar, Clock, Bookmark, Sparkles, History, Sun, Moon } from 'lucide-react';
-import type { ListeningMode, EphemerisDay } from '../types/ephemeris';
+import { Calendar, Bookmark, History, Sun, Moon } from 'lucide-react';
+import type { EphemerisDay } from '../types/ephemeris';
 
 interface HeaderProps {
   currentDay: EphemerisDay;
   availableDays: Record<string, EphemerisDay>;
   onSelectDay: (id: string) => void;
-  listeningMode: ListeningMode;
-  onToggleListeningMode: (mode: ListeningMode) => void;
   activeTab: 'ephemeris' | 'timeline' | 'cabinet';
   onSelectTab: (tab: 'ephemeris' | 'timeline' | 'cabinet') => void;
   isBookmarked: boolean;
@@ -22,8 +20,6 @@ export const Header: React.FC<HeaderProps> = ({
   currentDay,
   availableDays,
   onSelectDay,
-  listeningMode,
-  onToggleListeningMode,
   activeTab,
   onSelectTab,
   isBookmarked,
@@ -162,34 +158,6 @@ export const Header: React.FC<HeaderProps> = ({
                 </option>
               ))}
             </select>
-          </div>
-
-          {/* Commutateur de Mode : Express (3-5 min) vs Approfondi (10 min) */}
-          <div className="flex items-center bg-[#121622] border border-[#2b3548] rounded-lg p-0.5">
-            <button
-              onClick={() => onToggleListeningMode('express')}
-              className={`flex items-center gap-1.5 px-2.5 py-1.5 rounded-md text-xs font-medium transition-all ${
-                listeningMode === 'express'
-                  ? 'bg-gradient-to-r from-[#d4af37]/20 to-[#aa8421]/20 text-[#f6e05e] border border-[#d4af37]/40 shadow'
-                  : 'text-[#8c9ba5] hover:text-white'
-              }`}
-              title="Synthèse percutante en 3 à 5 minutes"
-            >
-              <Clock className="w-3 h-3 text-[#d4af37]" />
-              <span>Express (3-5 min)</span>
-            </button>
-            <button
-              onClick={() => onToggleListeningMode('approfondi')}
-              className={`flex items-center gap-1.5 px-2.5 py-1.5 rounded-md text-xs font-medium transition-all ${
-                listeningMode === 'approfondi'
-                  ? 'bg-gradient-to-r from-[#8b1e28]/30 to-[#6b1620]/30 text-[#fca5a5] border border-[#a82b36]/50 shadow'
-                  : 'text-[#8c9ba5] hover:text-white'
-              }`}
-              title="Grand Récit géopolitique & analyse causale exhaustive (10 min)"
-            >
-              <Sparkles className="w-3 h-3 text-[#f87171]" />
-              <span>Grand Récit (10 min)</span>
-            </button>
           </div>
 
           <button

@@ -5,7 +5,7 @@ import type { MainEvent, ListeningMode, HistoricalEra } from '../types/ephemeris
 
 interface MainEventCardProps {
   event: MainEvent;
-  listeningMode: ListeningMode;
+  listeningMode?: ListeningMode;
 }
 
 const ERA_LABELS: Record<HistoricalEra, { label: string; color: string }> = {
@@ -18,7 +18,7 @@ const ERA_LABELS: Record<HistoricalEra, { label: string; color: string }> = {
   epoque_contemporaine: { label: 'Époque Contemporaine', color: 'bg-cyan-950/40 text-cyan-300 border-cyan-800/40' },
 };
 
-export const MainEventCard: React.FC<MainEventCardProps> = ({ event, listeningMode }) => {
+export const MainEventCard: React.FC<MainEventCardProps> = ({ event, listeningMode = 'approfondi' }) => {
   const [showAnalysis, setShowAnalysis] = useState<boolean>(true);
   const eraInfo = ERA_LABELS[event.era] || { label: event.era, color: 'bg-slate-800 text-slate-300' };
 

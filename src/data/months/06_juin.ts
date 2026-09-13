@@ -140,18 +140,7 @@ Le 18 juin 1953, l'Égypte proclame la République et chasse la monarchie sous l
 
 Le 18 juin 1979, à Vienne, Carter et Brejnev signent les accords SALT deux, tentative majeure de limiter la course aux armements nucléaires intercontinentaux.
 
-Et le 18 juin 1983, l'astrophysicienne Sally Ride s'envole sur Challenger, affirmant la supériorité technique et scientifique américaine dans l'espace.
-
-La leçon du 18 juin : dans les gouffres de l'Histoire, un État n'est jamais vaincu tant qu'une volonté lucide refuse la soumission intellectuelle à la force brute.
-
-Votre question de culture militaire :
-Quelle défaite napoléonienne majeure mit fin définitivement aux Cent-Jours exactement 125 ans avant l'Appel de de Gaulle ?
-Première proposition : la bataille de Leipzig.
-Deuxième proposition : la bataille de Waterloo.
-Troisième proposition : la bataille de Wagram.
-Ou quatrième proposition : la bataille de Trafalgar.
-
-C'était bien la deuxième proposition, Waterloo. Le 18 juin conjugue ainsi le deuil de la domination impériale et le sursaut de la France Libre.`
+Et le 18 juin 1983, l'astrophysicienne Sally Ride s'envole sur Challenger, affirmant la supériorité technique et scientifique américaine dans l'espace.`
       },
       approfondi: {
         durationMinutes: 9,
@@ -174,16 +163,7 @@ En 1815, la foudre s'abat sur l'armée napoléonienne à Waterloo.
 En 1887, Bismarck conclut le traité secret de réassurance avec la Russie.
 En 1953, l'Égypte renverse la monarchie et ouvre l'ère de l'émancipation post-coloniale.
 En 1979, les accords SALT deux à Vienne fixent l'équilibre de la terreur thermonucléaire.
-Et en 1983, Sally Ride s'élance dans l'espace à bord de la navette Challenger.
-
-Voici votre question de mémoire active :
-Quelle célèbre bataille Napoléon a-t-il perdue exactement 125 ans plus tôt, le 18 juin 1815 ?
-Première proposition : la bataille de Leipzig.
-Deuxième proposition : la bataille de Waterloo.
-Troisième proposition : la bataille de Wagram.
-Ou quatrième proposition : la bataille de Trafalgar.
-
-C'était bien la deuxième proposition, la bataille de Waterloo. Entre la défaite de Waterloo et le sursaut de l'Appel du 18 Juin, cette date incarne le mystère de la résilience française à travers les siècles.`
+Et en 1983, Sally Ride s'élance dans l'espace à bord de la navette Challenger.`
       }
     }
   }

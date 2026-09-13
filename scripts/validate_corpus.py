@@ -69,14 +69,10 @@ def validate():
             if options_count < 4:
                 errors.append(f"{prefix} Quiz incomplet : {options_count}/4 options trouvées")
 
-            # 5. Vérification scripts audio
+            # 5. Vérification script audio quotidien unique
             m_exp = re.search(r"express:\s*\{[\s\S]*?script:\s*`([\s\S]*?)`\s*\}", block)
-            if not m_exp or len(m_exp.group(1).split()) < 250:
-                errors.append(f"{prefix} Script express manquant ou trop court")
-
-            m_app = re.search(r"approfondi:\s*\{[\s\S]*?script:\s*`([\s\S]*?)`\s*\}", block)
-            if not m_app or len(m_app.group(1).split()) < 500:
-                errors.append(f"{prefix} Script approfondi manquant ou trop court")
+            if not m_exp or len(m_exp.group(1).split()) < 180:
+                errors.append(f"{prefix} Script audio quotidien manquant ou trop court")
 
     print(f"\n📊 Bilan : {total_days} fiches analysées, {total_echoes} repères historiques (moyenne {total_echoes/total_days:.1f} par jour)")
     

@@ -36,17 +36,16 @@ const VOICE_SAMPLES: VoiceSampleInfo[] = [
 interface AudioPlayerProps {
   dayId: string;
   audioContent: AudioContent;
-  listeningMode: ListeningMode;
+  listeningMode?: ListeningMode;
   dayTitle: string;
 }
 
 export const AudioPlayer: React.FC<AudioPlayerProps> = ({
   dayId,
   audioContent,
-  listeningMode,
   dayTitle,
 }) => {
-  const currentAudioScript = listeningMode === 'express' ? audioContent.express : audioContent.approfondi;
+  const currentAudioScript = audioContent.express;
   
   // États de lecture
   const [isPlaying, setIsPlaying] = useState<boolean>(false);
@@ -81,8 +80,8 @@ export const AudioPlayer: React.FC<AudioPlayerProps> = ({
   const AUDIO_CACHE_VERSION = '20260909v1';
 
   // Chemin du fichier audio masterisé avec cache buster
-  const studioAudioSrc = `/audio/${dayId}-${listeningMode}_${narratorVoice}.mp3?v=${AUDIO_CACHE_VERSION}`;
-  const fallbackSrc = `/audio/${dayId}-${listeningMode}_remy.mp3?v=${AUDIO_CACHE_VERSION}`;
+  const studioAudioSrc = `/audio/${dayId}-express_${narratorVoice}.mp3?v=${AUDIO_CACHE_VERSION}`;
+  const fallbackSrc = `/audio/${dayId}-express_remy.mp3?v=${AUDIO_CACHE_VERSION}`;
 
   // Initialisation du circuit d'amplification Web Audio API
   const initWebAudio = () => {
@@ -161,7 +160,7 @@ export const AudioPlayer: React.FC<AudioPlayerProps> = ({
       audioRef.current.src = studioAudioSrc;
       audioRef.current.load();
     }
-  }, [dayId, listeningMode, narratorVoice, studioAudioSrc]);
+  }, [dayId, narratorVoice, studioAudioSrc]);
 
   // Synchronisation du lecteur HTML5 Audio
   useEffect(() => {
@@ -345,7 +344,7 @@ export const AudioPlayer: React.FC<AudioPlayerProps> = ({
           <div>
             <div className="flex flex-wrap items-center gap-2">
               <span className="text-[10px] uppercase font-bold tracking-wider px-2 py-0.5 rounded bg-[#d4af37]/15 text-[#f6e05e] border border-[#d4af37]/30">
-                {listeningMode === 'express' ? 'Capsule Express' : 'Grand Récit Audio'}
+                Récit Quotidien
               </span>
 
               {hasStudioFile ? (

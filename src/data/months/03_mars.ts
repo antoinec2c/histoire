@@ -156,18 +156,7 @@ En 1944, dans la clandestinité parisienne sous la terreur de la Gestapo, le Con
 
 En 1985, le dépôt de symbolics point com inaugure l'enregistrement des noms de domaine internet, coup d'envoi discret de la révolution planétaire du Web.
 
-Et le 15 mars 2011, la répression sanglante des manifestations de Deraa plonge la Syrie dans une guerre civile internationale dévastatrice dont les plaies béantes marquent encore le siècle.
-
-La grande leçon de l'Histoire : les conspirations politiques hâtives ne font presque toujours qu'accélérer l'avènement de la force même qu'elles prétendaient conjurer.
-
-Votre question de culture classique :
-Quel immense orateur républicain romain soutint moralement les assassins de César avant d'être lui-même exécuté par les soldats de Marc Antoine ?
-Première proposition : Cicéron.
-Deuxième proposition : Caton l'Ancien.
-Troisième proposition : Sénèque.
-Ou quatrième proposition : Tacite.
-
-La réponse est la première proposition, Cicéron. Auteur des implacables Philippiques contre Marc Antoine, le maître de la rhétorique romaine paya de sa vie son attachement à une République que la mécanique de l'Histoire avait déjà condamnée.`
+Et le 15 mars 2011, la répression sanglante des manifestations de Deraa plonge la Syrie dans une guerre civile internationale dévastatrice dont les plaies béantes marquent encore le siècle.`
       },
       approfondi: {
         durationMinutes: 9,
@@ -190,16 +179,7 @@ En 1917, dans le wagon impérial immobilisé à Pskov, le tsar Nicolas deux sign
 En 1939, la Wehrmacht pénètre dans Prague : Hitler viole les accords de Munich et prouve à la France et à l'Angleterre que l'illusion de l'apaisement diplomatique conduit inéluctablement à la guerre générale.
 En 1944, dans Paris occupé par les nazis, le Conseil National de la Résistance adopte clandestinement le programme « Les Jours Heureux », qui instaurera à la Libération la Sécurité sociale, les retraites et la nationalisation de l'énergie.
 En 1985, le dépôt du nom de domaine symbolics point com marque les premiers pas de l'internet civil et commercial moderne.
-Et en 2011, la répression des cortèges pacifiques de Deraa embrase la Syrie, prélude à une décennie de guerre par procuration entre grandes puissances régionales et mondiales.
-
-Voici votre question de mémoire active :
-Quel immense avocat romain et ardent républicain soutint moralement les assassins de César mais périt exécuté lors des proscriptions du second triumvirat ?
-Première proposition : Cicéron.
-Deuxième proposition : Caton l'Ancien.
-Troisième proposition : Sénèque.
-Ou quatrième proposition : Tacite.
-
-La réponse est la première proposition, Cicéron. Auteur des célèbres Philippiques dirigées contre Marc Antoine, il fut décapité en 43 avant notre ère sur ordre des triumvirs, symbole de l'effondrement tragique de l'ancienne République romaine.`
+Et en 2011, la répression des cortèges pacifiques de Deraa embrase la Syrie, prélude à une décennie de guerre par procuration entre grandes puissances régionales et mondiales.`
       }
     }
   }

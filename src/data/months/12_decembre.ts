@@ -162,18 +162,7 @@ En 1914, au cœur de la boue d'Ypres, retentit la trêve de Noël où soldats fr
 
 En 1989, le dictateur communiste roumain Nicolae Ceaușescu est fusillé avec son épouse à Târgoviște après un procès éclair, marquant l'effondrement du rideau de fer.
 
-Et le 25 décembre 1991, le drapeau rouge soviétique est descendu du Kremlin dans le silence de la nuit moscovite : après soixante-dix ans de tyrannie, l'URSS cesse d'exister.
-
-La grande leçon politique est limpide : le pouvoir ne dure que s'il repose sur une légitimité civile partagée.
-
-Votre question de culture géopolitique :
-Quelle hérésie chrétienne professaient les royaumes wisigoths et burgondes rivaux de Clovis, qui précipita leur perte face à l'alliance franque ?
-Première proposition : le catharisme.
-Deuxième proposition : l'arianisme.
-Troisième proposition : le donatisme.
-Ou quatrième proposition : le nestorianisme.
-
-La réponse est la deuxième proposition, l'arianisme. En rejetant cette dissidence théologique pour s'allier à l'orthodoxie romaine, Clovis a forgé l'unité de la future nation française.`
+Et le 25 décembre 1991, le drapeau rouge soviétique est descendu du Kremlin dans le silence de la nuit moscovite : après soixante-dix ans de tyrannie, l'URSS cesse d'exister.`
       },
       approfondi: {
         durationMinutes: 10,
@@ -358,18 +347,7 @@ En 1942, sous les tribunes d'un stade de l'université de Chicago, Enrico Fermi 
 
 En 1971, six émirats du golfe Persique s'unissent sous la conduite du cheikh Zayed pour fonder les Émirats Arabes Unis, comblant le vide géopolitique laissé par le départ britannique à l'est de Suez.
 
-Et le 2 décembre 1990, moins de deux mois après la réunification formelle, le chancelier Helmut Kohl triomphe lors des premières élections libres de l'Allemagne tout entière depuis 1932.
-
-La grande constante politique : la manœuvre militaire ou diplomatique ne triomphe jamais par la seule accumulation de force brute, mais par l'art de pousser l'adversaire à commettre la faute qu'il brûle secrètement d'accomplir.
-
-Votre question de stratégie militaire :
-Quel plateau clé, délibérément évacué par Napoléon pour tromper les coalisés, fut repris d'assaut par Soult pour fendre l'armée austro-russe ?
-Première proposition : le plateau de Craonne.
-Deuxième proposition : le plateau de Pratzen.
-Troisième proposition : le mont Saint-Jean.
-Ou quatrième proposition : le plateau de Langres.
-
-La réponse est la deuxième proposition, le plateau de Pratzen. En s'emparant de cette position dominante, Napoléon a brisé l'armée ennemie en deux blocs incapables de communiquer.`
+Et le 2 décembre 1990, moins de deux mois après la réunification formelle, le chancelier Helmut Kohl triomphe lors des premières élections libres de l'Allemagne tout entière depuis 1932.`
       },
       approfondi: {
         durationMinutes: 9,

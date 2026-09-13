@@ -1,7 +1,7 @@
 // src/App.tsx
 import { useState, useEffect, useTransition } from 'react';
 import { EPHEMERIS_DATABASE } from './data/ephemerisData';
-import type { ListeningMode, UserStats } from './types/ephemeris';
+import type { UserStats } from './types/ephemeris';
 import { storageService } from './services/storageService';
 import { Header } from './components/Header';
 import { AudioPlayer } from './components/AudioPlayer';
@@ -16,7 +16,6 @@ import { CabinetView } from './components/CabinetView';
 export function App() {
   const [currentDayId, setCurrentDayId] = useState<string>('09-08');
   const [activeTab, setActiveTab] = useState<'ephemeris' | 'timeline' | 'cabinet'>('ephemeris');
-  const [listeningMode, setListeningMode] = useState<ListeningMode>('express');
   const [userStats, setUserStats] = useState<UserStats>(storageService.getStats());
   const [theme, setTheme] = useState<'dark' | 'light'>('dark');
   const [, startTransition] = useTransition();
@@ -25,7 +24,6 @@ export function App() {
   useEffect(() => {
     const stats = storageService.getStats();
     setUserStats(stats);
-    setListeningMode(stats.preferredMode || 'express');
     const initialTheme = stats.theme || 'dark';
     setTheme(initialTheme);
     document.documentElement.classList.toggle('light', initialTheme === 'light');
@@ -51,12 +49,6 @@ export function App() {
     });
   };
 
-  const handleToggleMode = (mode: ListeningMode) => {
-    setListeningMode(mode);
-    storageService.setPreferredMode(mode);
-    setUserStats(storageService.getStats());
-  };
-
   const handleToggleTheme = () => {
     const nextTheme = theme === 'dark' ? 'light' : 'dark';
     setTheme(nextTheme);
@@ -80,8 +72,6 @@ export function App() {
         currentDay={currentDay}
         availableDays={EPHEMERIS_DATABASE}
         onSelectDay={handleSelectDay}
-        listeningMode={listeningMode}
-        onToggleListeningMode={handleToggleMode}
         activeTab={activeTab}
         onSelectTab={setActiveTab}
         isBookmarked={isCurrentBookmarked}
@@ -95,18 +85,16 @@ export function App() {
       <main className="flex-1 max-w-5xl w-full mx-auto px-4 py-6 sm:py-8 space-y-6 sm:space-y-8">
         {activeTab === 'ephemeris' && (
           <div className="space-y-6 sm:space-y-8 animate-fade-in">
-            {/* Lecteur Audio Haute Qualité (Express ou Grand Récit) */}
+            {/* Lecteur Audio Haute Qualité Studio */}
             <AudioPlayer
               dayId={currentDay.id}
               audioContent={currentDay.audio}
-              listeningMode={listeningMode}
               dayTitle={`${currentDay.mainEvent.yearDisplay} — ${currentDay.mainEvent.title}`}
             />
 
             {/* Fait Majeur & Analyse des Causes Politiques */}
             <MainEventCard
               event={currentDay.mainEvent}
-              listeningMode={listeningMode}
             />
 
             {/* Perspective Européenne ou Mondiale */}

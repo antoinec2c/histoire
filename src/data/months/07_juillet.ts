@@ -152,18 +152,7 @@ En 1909, Orville Wright accomplit le premier vol d'aviation militaire de plus d'
 
 En 1953, l'armistice de Panmunjeom fige la partition coréenne sur le 38e parallèle après un affrontement sanglant de la guerre froide ayant coûté plus de deux millions de vies.
 
-Et le 27 juillet 1996, un attentat à la bombe ensanglante le parc olympique d'Atlanta, marquant l'irruption du terrorisme asymétrique au cœur des grandes démocraties.
-
-La maxime politique de Bouvines : le roi de France a vaincu parce qu'il combattait au centre de ses lignes territoriales contre une coalition d'intérêts hétérogènes et vénaux.
-
-Votre question de culture historique :
-Quelle capitulation constitutionnelle Jean sans Terre dut-il concéder en Angleterre suite au désastre de Bouvines ?
-Première proposition : l'Habeas Corpus.
-Deuxième proposition : la Magna Carta.
-Troisième proposition : la Déclaration des droits.
-Ou quatrième proposition : le traité de Troyes.
-
-C'était bien la deuxième proposition, la Magna Carta en 1215. Sans le désastre de Bouvines qui ruina Jean sans Terre, la monarchie anglaise n'aurait jamais été forcée de limiter son absolutisme devant le baronnage.`
+Et le 27 juillet 1996, un attentat à la bombe ensanglante le parc olympique d'Atlanta, marquant l'irruption du terrorisme asymétrique au cœur des grandes démocraties.`
       },
       approfondi: {
         durationMinutes: 9,

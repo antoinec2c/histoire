@@ -1,6 +1,7 @@
 # scripts/master_all_updated.py
 import asyncio
 import os
+import sys
 import re
 import subprocess
 import edge_tts
@@ -86,16 +87,15 @@ async def main():
     scripts = extract_audio_scripts()
     print(f"Total scripts audio identifiés : {len(scripts)}", flush=True)
     
-    # 1. Tous les express en priorité absolue (format par défaut pour écoute immédiate)
-    express_keys = sorted([k for k in scripts.keys() if k.endswith("-express")])
-    deep_keys = sorted([k for k in scripts.keys() if k.endswith("-approfondi")])
-    ordered_keys = express_keys + deep_keys
+    # Format unique quotidien de référence (Express, 2 à 3 min)
+    ordered_keys = sorted([k for k in scripts.keys() if k.endswith("-express")])
+    force = "--force" in sys.argv
     
     total_todo = 0
     for file_key in ordered_keys:
         for v_key in VOICE_CONFIG.keys():
             final_path = os.path.join(out_dir, f"{file_key}_{v_key}.mp3")
-            if not (os.path.exists(final_path) and os.path.getsize(final_path) > 1000):
+            if force or not (os.path.exists(final_path) and os.path.getsize(final_path) > 1000):
                 total_todo += 1
                 
     print(f"Pistes audio restant à graver : {total_todo} fichiers studio", flush=True)
@@ -105,7 +105,7 @@ async def main():
         text = scripts[file_key]
         for v_key, conf in VOICE_CONFIG.items():
             final_path = os.path.join(out_dir, f"{file_key}_{v_key}.mp3")
-            if os.path.exists(final_path) and os.path.getsize(final_path) > 1000:
+            if not force and os.path.exists(final_path) and os.path.getsize(final_path) > 1000:
                 continue
             done_count += 1
             print(f"\n🎙️ [{done_count}/{total_todo}] En cours : {file_key} ({v_key})...", flush=True)
